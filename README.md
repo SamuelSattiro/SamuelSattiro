@@ -1,4 +1,4 @@
-# Opa! Samuel por aqui! 👋
+<h1 align="center">Opa! Samuel por aqui! 👋</h1>
 
 <div align="center">
 
