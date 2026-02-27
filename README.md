@@ -1,8 +1,6 @@
-<div align="center">
+# Opa! Samuel por aqui! 👋
 
 <div align="center">
-  # Opa! Samuel por aqui! 👋 
-</div>
 
 💻 Desenvolvedor Full Stack • 🐍 Python • 🚀 React + Django + APIs REST • 📊 Análise de Dados • 📍 São Paulo - Brasil  
 
