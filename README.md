@@ -9,7 +9,7 @@ Gosto de transformar ideias em produtos reais, com código limpo e performance.
 ---
 
 <div align="center">
-  ## Tech Stack 
+  TECH STACK 
 </div>
 
 <table width="100%">
@@ -43,7 +43,7 @@ Gosto de transformar ideias em produtos reais, com código limpo e performance.
 ---
 
 <div align="center">
-  ## Estatistícas
+  ESTATÍSTICAS
 </div>
 
 ![Python](https://img.shields.io/badge/Python-45%25-blue)
@@ -53,7 +53,7 @@ Gosto de transformar ideias em produtos reais, com código limpo e performance.
 ---
 
 <div align="center">
-  ## Contatos 
+  CONTATOS 
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)]([SEU_LINK](https://www.linkedin.com/in/samuelsattiro/))
