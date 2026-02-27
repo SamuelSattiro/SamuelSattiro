@@ -1,6 +1,6 @@
 ## Opa! Samuel por aqui! 👋
 
-💻 Desenvolvedor Full Stack • 🚀 React + Django + APIs REST • 📊 Dados & Cloud • 📍 São Paulo - Brasil  
+💻 Desenvolvedor Full Stack • 🐍 Python • 🚀 React + Django + APIs REST • 📊 Análise de Dados • 📍 São Paulo - Brasil  
 
 Gosto de transformar ideias em produtos reais, com código limpo e performance.
 
@@ -8,9 +8,33 @@ Gosto de transformar ideias em produtos reais, com código limpo e performance.
 
 ## Tech Stack
 
-| Front-end | Back-end | DevOps |
-|-----------|-----------|-----------|
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)<br>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)<br>![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)<br>![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)<br>![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql) | ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge)<br>![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)<br>![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker) |
+<table width="100%">
+<tr>
+  <th align="center">Front-end</th>
+  <th align="center">Back-end</th>
+  <th align="center">DevOps</th>
+</tr>
+
+<tr>
+  <td align="center" style="padding: 0 70px;">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000"/><br>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/><br>
+    <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  </td>
+
+  <td align="center" style="padding: 0 70px;">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=000000"/><br>
+    <img src="https://img.shields.io/badge/Django-2BA977?style=for-the-badge&logo=django&logoColor=white"/><br>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  </td>
+
+  <td align="center" style="padding: 0 70px;">
+    <img src="https://img.shields.io/badge/Render-6C63FF?style=for-the-badge&logo=render&logoColor=white"/><br>
+    <img src="https://img.shields.io/badge/Vercel-444444?style=for-the-badge&logo=vercel&logoColor=white"/><br>
+    <img src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  </td>
+</tr>
+</table>
 
 ---
 
