@@ -1,3 +1,5 @@
+<div align="center">
+  
 ## Opa! Samuel por aqui! 👋
 
 💻 Desenvolvedor Full Stack • 🐍 Python • 🚀 React + Django + APIs REST • 📊 Análise de Dados • 📍 São Paulo - Brasil  
@@ -54,6 +56,8 @@ Gosto de transformar ideias em produtos reais, com código limpo e performance.
 ---
 
 ⭐ Sempre aberto a oportunidades e colaborações
+
+</div>
 
 <!--
 **SamuelSattiro/SamuelSattiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
