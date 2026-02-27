@@ -1,6 +1,8 @@
 <div align="center">
-  
-<div align="center"><b># >Opa! Samuel por aqui! 👋</b></div>
+
+<div align="center" style="font-size:42px; font-weight:700; margin: 30px 0;">
+  Opa! Samuel por aqui! 👋
+</div>
 
 💻 Desenvolvedor Full Stack • 🐍 Python • 🚀 React + Django + APIs REST • 📊 Análise de Dados • 📍 São Paulo - Brasil  
 
@@ -8,7 +10,9 @@ Gosto de transformar ideias em produtos reais, com código limpo e performance.
 
 ---
 
-<div align="center"><b>## Tech Stack</b></div>
+<div align="center" style="font-size:28px; font-weight:700; margin: 30px 0;">
+  Tech Stack
+</div>
 
 <table width="100%">
 <tr>
@@ -40,7 +44,9 @@ Gosto de transformar ideias em produtos reais, com código limpo e performance.
 
 ---
 
-<div align="center"><b>## Estatísticas</b></div>
+<div align="center" style="font-size:28px; font-weight:700; margin: 30px 0;">
+  Estatísticas
+</div>
 
 ![Python](https://img.shields.io/badge/Python-45%25-blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-30%25-blue)
@@ -48,7 +54,9 @@ Gosto de transformar ideias em produtos reais, com código limpo e performance.
 
 ---
 
-<div align="center"><b>## Contato</b></div>
+<div align="center" style="font-size:28px; font-weight:700; margin: 30px 0;">
+  Contato
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)]([SEU_LINK](https://www.linkedin.com/in/samuelsattiro/))
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:samuelsattiro.dev@gmail.com)
