@@ -1,6 +1,9 @@
 <div align="center">
 
-<div align="center" style="font-size:42px; font-weight:700; margin: 30px 0;">
+<div align="center" style="font-size: 56px;
+  font-weight: 800;
+  margin: 50px 0 25px 0;
+  letter-spacing: 0.5px;">
   Opa! Samuel por aqui! 👋
 </div>
 
@@ -10,7 +13,10 @@ Gosto de transformar ideias em produtos reais, com código limpo e performance.
 
 ---
 
-<div align="center" style="font-size:28px; font-weight:700; margin: 30px 0;">
+<div align="center" style="font-size: 34px;
+  font-weight: 800;
+  margin: 50px 0 25px 0;
+  letter-spacing: 0.5px;">
   Tech Stack
 </div>
 
@@ -44,7 +50,10 @@ Gosto de transformar ideias em produtos reais, com código limpo e performance.
 
 ---
 
-<div align="center" style="font-size:28px; font-weight:700; margin: 30px 0;">
+<div align="center" style="font-size: 34px;
+  font-weight: 800;
+  margin: 50px 0 25px 0;
+  letter-spacing: 0.5px;">
   Estatísticas
 </div>
 
@@ -54,7 +63,10 @@ Gosto de transformar ideias em produtos reais, com código limpo e performance.
 
 ---
 
-<div align="center" style="font-size:28px; font-weight:700; margin: 30px 0;">
+<div align="center" style="font-size: 34px;
+  font-weight: 800;
+  margin: 50px 0 25px 0;
+  letter-spacing: 0.5px;">
   Contato
 </div>
 
